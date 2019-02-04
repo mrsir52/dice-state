@@ -10,7 +10,7 @@ class Dice extends Component {
         return (
             <div>
                 This Bag has {this.state.bag.length} Dice
-                <button onClick={this.rollAll}>Roll Dice</button>
+                {/* <button onClick={this.rollAll}>Roll Dice</button> */}
                 <ul>
                     {showBag}
                 </ul>
