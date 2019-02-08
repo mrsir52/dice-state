@@ -6,7 +6,7 @@ class DiceBag extends Component{
     render(){
         return(
             <div>
-                Hello from Dice Bag
+            
                 <Dice/>
             </div>
         )
